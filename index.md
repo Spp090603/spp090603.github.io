@@ -53,9 +53,15 @@ personas mayores.
 
 - CATALÁN: Nativo
 
-- INGLES: Medio, aunque tenga cierta dificultad para expresarme
-
-- oralmente, puedo entender el inglés sin ningún problema
+- INGLES: Medio, aunque tenga cierta dificultad para expresarme oralmente, puedo entender el inglés sin ningún problema.
 
 
+## Ejemplos HTML
+
+- <a href="Ejemplo_flexbox">Ejemplo Flex </a>
+
+- <a href="Ejemplo_flexbox2">Ejemplo Flex2 </a>
+
+- <a href="Ejemplo_Formulario">Ejemplo Formulario </a>
+  
 
