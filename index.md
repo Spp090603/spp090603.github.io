@@ -1,6 +1,6 @@
 ## Curriculum
 
-<img src="imagen.jpg" widht="100" height="120">
+<img src="imagen.jpg" widht="200" height="220">
 
 Santiago Pérez Peña 
 
@@ -22,6 +22,11 @@ gustan siempre cumplir mis
 objetivos, soy una persona
 paciente.
 ## Interes profesional
+- Progamador 
+- Desarollador de aplicaciones multiplataforma 
+- Tecnico de redes 
+- Tecnico Informático 
+- Montaje y manteniemto de dispositivos informáticos 
 
 ## Contacto
 - 677191291
