@@ -1,6 +1,6 @@
 ## Curriculum
 
-<img src="imagen.jpg" widht="100" height="120">
+
 
 Santiago Pérez Peña 
 
