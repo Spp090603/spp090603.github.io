@@ -1,6 +1,6 @@
 ## Curriculum
 
-
+<img src="imagen.jpg" widht="100" height="120">
 
 Santiago Pérez Peña 
 
@@ -21,6 +21,8 @@ soy constante en el trabajo, me
 gustan siempre cumplir mis
 objetivos, soy una persona
 paciente.
+## Interes profesional
+
 ## Contacto
 - 677191291
 
