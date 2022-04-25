@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+## Curriculum
 
-You can use the [editor on GitHub](https://github.com/Spp090603/spp090603.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="imagen.jpg" widht="100" height="120">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Santiago Pérez Peña 
 
-### Markdown
+## Perfil
+Tengo habilidad con la
+informática tuve una formación en
+San Ramón Nonat y también en
+IFP, actualmente estoy en
+segundo año de ciclo formativo de
+informática.
+Tengo conocimiento de redes,
+sistemas operativos Windows y
+Linux, aplicaciones ofimáticas,
+montaje y mantenimiento.
+Soy una persona trabajadora,
+aprendo de los errores rápido, y
+soy constante en el trabajo, me
+gustan siempre cumplir mis
+objetivos, soy una persona
+paciente.
+## Contacto
+- 677191291
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- santiago090603@gmail.com
 
-```markdown
-Syntax highlighted code block
+- Rambla Catalana 35-41 2:2
 
-# Header 1
-## Header 2
-### Header 3
+## Formación 
+- ESO: Educación secundaria 2020
 
-- Bulleted
-- List
+- SAN RAMÓN NONATO: Carretera de Collblanc 72, 08028 Barcelona
 
-1. Numbered
-2. List
+- GRADO MEDIO INFORMÁTICO: IFP grupo Planeta Barcelona Av. de Josep Tarradellas
+i Joan, 177, 08901 L'Hospitalet de Llobregat, Barcelona
 
-**Bold** and _Italic_ and `Code` text
+## Historial laboral 
+- Participación en voluntariado del banco de alimentos de Cáritas.
+- Voluntariado en la residencia de Neuro Mount organizando y cuidando a
+personas mayores.
 
-[Link](url) and ![Image](src)
-```
+## Idiomas 
+- ESPAÑOL: Nativo
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- CATALÁN: Nativo
 
-### Jekyll Themes
+- INGLES: Medio, aunque tenga cierta dificultad para expresarme
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Spp090603/spp090603.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- oralmente, puedo entender el inglés sin ningún problema
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
